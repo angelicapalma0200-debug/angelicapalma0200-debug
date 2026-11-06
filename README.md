@@ -19,6 +19,10 @@ My doctoral research brings together satellite remote sensing, ecological modell
 
 I work with R, Python, Google Earth Engine, GIS, and Git/GitHub. I prioritize data provenance, quality assessment, transparent documentation, and careful interpretation of uncertainty.
 
+## Selected public project
+
+- [Synthetic Environmental Data QA](https://github.com/angelicapalma0200-debug/synthetic-environmental-data-qa) — A small, reproducible Python example demonstrating synthetic data generation, quality checks and automated tests. It uses fictional measurements and is not a scientific case study.
+
 ## Public work and reproducibility
 
-This profile is intended to share selected, self-contained examples of scientific computing and reproducible data analysis. Unpublished research data, sensitive locations, internal workflows, and project-specific infrastructure remain private unless they are ready and appropriate for release.
+This profile shares selected, self-contained examples of scientific computing and reproducible data analysis. Unpublished research data, sensitive locations, internal workflows, and project-specific infrastructure remain private unless they are ready and appropriate for release.

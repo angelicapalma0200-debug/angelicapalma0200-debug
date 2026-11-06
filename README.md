@@ -1,16 +1,24 @@
-## Hi there 👋
+# Angélica Alejandra Palma Araúz
 
-<!--
-**angelicapalma0200-debug/angelicapalma0200-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Doctoral researcher in Agricultural Sciences**  
+Universidad Nacional de Colombia, Palmira Campus
 
-Here are some ideas to get you started:
+I am interested in how environmental change and landscape heterogeneity affect biodiversity in high-Andean ecosystems, particularly the Colombian páramo and the plant group Espeletiinae.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My doctoral research brings together satellite remote sensing, ecological modelling, and population genomics to examine environmental and biological patterns across spatial scales.
+
+## Research interests
+
+- High-Andean ecology and biodiversity conservation
+- Satellite remote sensing and environmental time series
+- Species distribution modelling and climate suitability
+- Population genetics and genomics
+- Reproducible geospatial analysis and scientific data quality
+
+## Tools and research practice
+
+I work with R, Python, Google Earth Engine, GIS, and Git/GitHub. I prioritize data provenance, quality assessment, transparent documentation, and careful interpretation of uncertainty.
+
+## Public work and reproducibility
+
+This profile is intended to share selected, self-contained examples of scientific computing and reproducible data analysis. Unpublished research data, sensitive locations, internal workflows, and project-specific infrastructure remain private unless they are ready and appropriate for release.

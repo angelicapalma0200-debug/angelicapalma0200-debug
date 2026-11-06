@@ -21,7 +21,7 @@ I work with R, Python, Google Earth Engine, GIS, and Git/GitHub. I prioritize da
 
 ## Selected public project
 
-- [Synthetic Environmental Data QA](https://github.com/angelicapalma0200-debug/synthetic-environmental-data-qa) — A small, reproducible Python example demonstrating synthetic data generation, quality checks and automated tests. It uses fictional measurements and is not a scientific case study.
+- [Environmental Data QA and Earth Observation](https://github.com/angelicapalma0200-debug/synthetic-environmental-data-qa) — An independent Python demonstration with georeferenced raster processing, explicit quality flags, NDVI, provenance reporting and automated tests. The offline synthetic mode is verified; live Sentinel-2 access remains an optional, unverified extension.
 
 ## Public work and reproducibility
 
